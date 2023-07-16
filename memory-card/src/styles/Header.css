@@ -1,0 +1,19 @@
+#header{
+    background-color: #ca0b1b;
+}
+
+#top-header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    
+}
+
+#bottom-header{
+    padding-left: 30px;
+    justify-content:space-around;
+    
+}
+#top-header > div > h3{
+    margin: 0;
+}
