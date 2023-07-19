@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Memory-Card/static/css/main.774b7edf.css",
+    "main.js": "/Memory-Card/static/js/main.a64f03f3.js",
+    "static/js/787.d6a8b40f.chunk.js": "/Memory-Card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/benderv2.png": "/Memory-Card/static/media/benderv2.011ee4096c7cdcd96f41.png",
+    "static/media/bender.png": "/Memory-Card/static/media/bender.cb9764e77441b73f8a56.png",
+    "static/media/zap.png": "/Memory-Card/static/media/zap.7e9d0639f51a101e9e58.png",
+    "static/media/zoid.png": "/Memory-Card/static/media/zoid.19e6d119357a00fd075e.png",
+    "static/media/fryv2.png": "/Memory-Card/static/media/fryv2.bbb9a225c5d7870bfd07.png",
+    "static/media/gang.png": "/Memory-Card/static/media/gang.ddd0ea8a4b447b14b72b.png",
+    "static/media/fry.png": "/Memory-Card/static/media/fry.e40e25e579f27128fb8c.png",
+    "static/media/amy.png": "/Memory-Card/static/media/amy.6f19c6cbfc94f06c785d.png",
+    "static/media/leelav2.png": "/Memory-Card/static/media/leelav2.84b0ae947638ce04b728.png",
+    "static/media/leela.png": "/Memory-Card/static/media/leela.ec3a3edeb74645863de0.png",
+    "static/media/roberto.png": "/Memory-Card/static/media/roberto.f91bc0d62f57f03179ac.png",
+    "static/media/hermes.png": "/Memory-Card/static/media/hermes.28cfd8bcb8165e5a59cd.png",
+    "index.html": "/Memory-Card/index.html",
+    "main.774b7edf.css.map": "/Memory-Card/static/css/main.774b7edf.css.map",
+    "main.a64f03f3.js.map": "/Memory-Card/static/js/main.a64f03f3.js.map",
+    "787.d6a8b40f.chunk.js.map": "/Memory-Card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.774b7edf.css",
+    "static/js/main.a64f03f3.js"
+  ]
+}
