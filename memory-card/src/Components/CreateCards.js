@@ -74,8 +74,6 @@ const CreateCards = () => {
             array[i] = array[j];
             array[j] = temp;
         }
-        console.log("Now shuffling");
-        console.log("--------------S-------------")
     }
     useEffect(() => {
         shuffle(cards);  
